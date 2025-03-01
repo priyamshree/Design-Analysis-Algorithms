@@ -4,5 +4,6 @@
 This repository contains 12 program based on different algorithms.
 
 ## Table of Contents
-- [Program1] (#Program1)
+
 ![Build Status](https://img.shields.io/github/workflow/status/username/project-name/CI)
+![Profile Views](https://komarev.com/ghpvc/?username=priyamshree)
