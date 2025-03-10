@@ -3,7 +3,7 @@
 > This repository contains 12 program based on different algorithms.
 
 ## Table of Contents
-- Program 1[program-1]
+- Program 1 [program-1]
 - Program 2
 - Program 3
 - Program 4
